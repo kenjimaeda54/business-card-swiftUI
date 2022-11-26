@@ -38,7 +38,7 @@ Aprender swiftui
 		}
 
 
-//
+//info View
 	VStack {
 				Image("kenji")
 					.resizable()
