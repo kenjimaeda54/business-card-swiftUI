@@ -14,7 +14,7 @@ Aprender swiftui
 
 
 ```swift
-
+  //
 	VStack {
 				Image("kenji")
 					.resizable()
