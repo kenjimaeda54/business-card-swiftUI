@@ -1,7 +1,7 @@
 # Business Card
 Pequena aplicação que contem apresentação sobre meu nome e contato
 
-## Motivacao
+## Motivação
 Aprender swiftui
 
 
