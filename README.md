@@ -13,7 +13,7 @@ Aprender swiftui
 
 
 
-```swift
+```swiftUI
   //
 	VStack {
 				Image("kenji")
