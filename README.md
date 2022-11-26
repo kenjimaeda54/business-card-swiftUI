@@ -7,9 +7,9 @@ Aprender swiftui
 
 ## Feature
 - SwiftUI traz muitos conceitos que são aplicados no desenvolvimento mobile hibrido como Flutter e React Native
-- Um deles e a possibilidade de reaproveitar código através do Extract em algumas linguagens e conhecido como componentização
+- Um deles e a possibilidade de reaproveitar código através do Extract em algumas linguagens, conhecido como componentização
 - Para alinhar os componentes  usamos [HStack, VStack](https://blog.devgenius.io/stacks-in-swiftui-de8951c3011b) e para background pode usar ZStack
-- VStack seria o column e HStack e para horizontal
+- VStack seria para coluna, HStack para horizontal
 
 
 
